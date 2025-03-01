@@ -2,7 +2,7 @@ var config_data = `
 {
   "dataFormat": "tsv",
   "title": "Scouting PASS 2025",
-  "page_title": "Crescendo",
+  "page_title": "Reefscape",
   "pitConfig": "true",
   "prematch": [
     { "name": "Team Number",
